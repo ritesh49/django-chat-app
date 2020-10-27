@@ -24,7 +24,7 @@ cmake==3.15.3
 colorama==0.4.3
 comtypes==1.1.7
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 curses-2048==1.4
 curses-menu==0.5.0
 cx-Oracle==7.1.3
