@@ -37,7 +37,7 @@ Django==2.2.10
 django-heroku==0.3.1
 django-pyodbc-azure==2.1.0.0
 django-rest-framework==0.1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 dlib==19.19.0
 docutils==0.14
 entrypoints==0.3
